@@ -1,0 +1,10 @@
+
+/data*
+/protocol_feature*
+gen_conf/protocol_features*
+gen_conf2/protocol_features*
+conf2/protocol_features*
+*.keys
+config.ini
+genesis.json
+*.log
