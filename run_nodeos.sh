@@ -132,7 +132,7 @@ activate_feature 8888 "0ec7e080177b2c02b278d5088611686b49d739925a92d9bfcacd7fc6b
 
 sleep 3
 
-EOSIO_CONTRACTS_DIRECTORY="/Users/dmytro.sydorchenko/Work/eosio.contracts/build/contracts"
+EOSIO_CONTRACTS_DIRECTORY="$HOME/Work/eosio.contracts/build/contracts"
 
 cleos set contract eosio $EOSIO_CONTRACTS_DIRECTORY/eosio.boot/
 
